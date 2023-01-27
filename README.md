@@ -1,4 +1,5 @@
 # Dice-Game
+https://yunusemrebeyaz.github.io/Dice-Game/
 
 ## How to play:
 * Player 1 starts first.
